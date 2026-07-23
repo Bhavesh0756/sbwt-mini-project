@@ -1,1 +1,0 @@
-# sbwt-mini-project
